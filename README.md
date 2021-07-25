@@ -7,3 +7,5 @@ O projeto será desenvolvido com html, css e javascript.
 ### andamento
 Por enquanto só a parte de frontend foi desenvolvida XD.
 *em andamento...*
+
+Sugestões é bem-vinda.
